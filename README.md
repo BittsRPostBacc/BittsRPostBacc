@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BittsRPostBacc
-- 👀 I’m interested in Pythong, Java, C#, SQL, Powershell - pretty much everything
+- 👀 I’m interested in Python, Java, C#, SQL, Powershell - pretty much everything
 - 🌱 I’m currently learning Computer Science at Oregon State University.  Go Beavs!
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me @RandyBitts on Twitter
